@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-AU"
 site_theme               : "default"
 title                    : "Jiazhou 'Joe' Liu"
 title_separator          : "-"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Jiazhou 'Joe' Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Faculty of Information Technology (FIT),\nMonash University,\nClayton, VIC, Australia"
+  bio              : "Faculty of Information Technology, Monash University"
   location         : "Melbourne, Australia"
   employer         : "Monash University"
   uri              : # URL
